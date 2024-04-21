@@ -1,0 +1,1 @@
+s.erase(s.find(part),part.length());       
